@@ -1,2 +1,2 @@
-import AuthForm from '@/components/AuthForm';
-export default function LoginPage(){ return <AuthForm/>; }
+import {redirect} from 'next/navigation';
+export default function Login(){redirect('/');}
