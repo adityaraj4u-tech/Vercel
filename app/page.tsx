@@ -34,3 +34,5 @@ export default function Home() {
     </div>
   </main>;
 }
+
+// Production refresh marker: 2026-08-11
