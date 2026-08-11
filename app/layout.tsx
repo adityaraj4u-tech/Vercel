@@ -1,8 +1,8 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'NTA CBT – Computer Based Test Platform',
-  description: 'NTA-style Computer Based Test platform'
+  title: 'GEC Banka Tech Quiz',
+  description: 'Government Engineering College Banka online technical quiz platform'
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
